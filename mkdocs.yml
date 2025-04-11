@@ -1,0 +1,6 @@
+site_name: Relatorio de Gerência de segurança de Redes de Computadores
+site_dir: /var/www/html
+
+theme:
+  name: material
+  language: pt
